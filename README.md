@@ -2,9 +2,11 @@
 
 ## Objective
 
-To refractor given HTML and CSS code. The client is an SEO marketing company. Main objective is to update existing to to accessibility standards.
+To refractor given HTML and CSS code. The client is an SEO marketing company. 
 
-## Mock-Up
+The main objective is to update existing to to accessibility standards.
+
+## Website Image
 
 The following image shows the web application's appearance and functionality:
 
@@ -13,6 +15,7 @@ The following image shows the web application's appearance and functionality:
 ## Mock-Up
 
 Project links: 
+
 https://bandreae.github.io/01_Homework/index.html
 
 https://github.com/bandreae/01_Homework
