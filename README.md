@@ -8,13 +8,9 @@ The main objective is to update existing to to accessibility standards.
 
 ## Website Image
 
-The following image shows the web application's appearance and functionality:
-
 ![code refactor demo](./Website_Image/01-html-css-git-homework-demo.png)
 
-## Mock-Up
-
-Project links: 
+## Project links: 
 
 https://bandreae.github.io/01_Homework/index.html
 
