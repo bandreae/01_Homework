@@ -14,4 +14,5 @@ The following image shows the web application's appearance and functionality:
 
 Project links: 
 https://bandreae.github.io/01_Homework/index.html
+
 https://github.com/bandreae/01_Homework
